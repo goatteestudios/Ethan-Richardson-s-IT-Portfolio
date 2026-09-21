@@ -1,3 +1,2 @@
 # Ethan-Richardson-s-IT-Portfolio
 I have been studying IT for 6 years and I am currently diving deep into  CompTIA A+ and Google IT Support. 
-https://acclaim-production-app.files.credly.com/uploads/printable_pdf/printable_pdf/10d55a1c-5206-4350-bc18-d4720032006b/GoogleITSupportProfessionalCertificatev.3_Badge20260921-21-k7v7oj.pdf?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5DGBWDLSJNCDKBQR%2F20260921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260921T204114Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=3a41e30ca29b833cbcb16e61915a460e348adadccc53f8aa3c5842ac593add6d
